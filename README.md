@@ -1,7 +1,7 @@
 # CS416-NVIZ
 Narrative Visualization Graded Assignment
 
-CS 416 Data Visualization- Essay describing the Narative Visualization
+<b>CS 416 Data Visualization- Essay describing the Narative Visualization<b>
 By Rishikesh R. Pagnis; rpagnis2 Summer 2021
 
 View visualization by clicking here (Provide Link) : Final Project for CS 416 - Compare Fuel Economy measured in Miles per Gallon(MPG)in the City vs on the Highway using a scatter plot. Do number of Cylinders matter? How about Electric Cars with no cylinders?
